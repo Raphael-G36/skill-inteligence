@@ -1,0 +1,133 @@
+{
+  "skills": {
+    "Python": {
+      "variations": ["python", "py", "python3", "python2"],
+      "category": "Programming Language"
+    },
+    "JavaScript": {
+      "variations": ["javascript", "js", "node.js", "nodejs", "ecmascript"],
+      "category": "Programming Language"
+    },
+    "TypeScript": {
+      "variations": ["typescript", "ts"],
+      "category": "Programming Language"
+    },
+    "Java": {
+      "variations": ["java", "java 8", "java 11", "java 17"],
+      "category": "Programming Language"
+    },
+    "PostgreSQL": {
+      "variations": ["postgresql", "postgres", "pg", "postgres db"],
+      "category": "Database"
+    },
+    "MySQL": {
+      "variations": ["mysql", "my sql"],
+      "category": "Database"
+    },
+    "MongoDB": {
+      "variations": ["mongodb", "mongo", "mongo db"],
+      "category": "Database"
+    },
+    "Redis": {
+      "variations": ["redis", "redis cache"],
+      "category": "Database"
+    },
+    "React": {
+      "variations": ["react", "reactjs", "react.js"],
+      "category": "Frontend Framework"
+    },
+    "Vue.js": {
+      "variations": ["vue.js", "vuejs", "vue"],
+      "category": "Frontend Framework"
+    },
+    "Angular": {
+      "variations": ["angular", "angularjs", "angular.js"],
+      "category": "Frontend Framework"
+    },
+    "Next.js": {
+      "variations": ["next.js", "nextjs", "next"],
+      "category": "Frontend Framework"
+    },
+    "Flask": {
+      "variations": ["flask", "flask framework"],
+      "category": "Backend Framework"
+    },
+    "Django": {
+      "variations": ["django", "django framework"],
+      "category": "Backend Framework"
+    },
+    "Express.js": {
+      "variations": ["express.js", "expressjs", "express"],
+      "category": "Backend Framework"
+    },
+    "FastAPI": {
+      "variations": ["fastapi", "fast api"],
+      "category": "Backend Framework"
+    },
+    "Node.js": {
+      "variations": ["node.js", "nodejs", "node"],
+      "category": "Runtime"
+    },
+    "Docker": {
+      "variations": ["docker", "docker container"],
+      "category": "DevOps"
+    },
+    "Kubernetes": {
+      "variations": ["kubernetes", "k8s", "kube"],
+      "category": "DevOps"
+    },
+    "AWS": {
+      "variations": ["aws", "amazon web services", "amazon aws"],
+      "category": "Cloud Platform"
+    },
+    "Azure": {
+      "variations": ["azure", "microsoft azure"],
+      "category": "Cloud Platform"
+    },
+    "GCP": {
+      "variations": ["gcp", "google cloud", "google cloud platform"],
+      "category": "Cloud Platform"
+    },
+    "Git": {
+      "variations": ["git", "git version control"],
+      "category": "Tools"
+    },
+    "CI/CD": {
+      "variations": ["ci/cd", "cicd", "continuous integration", "continuous deployment", "ci cd"],
+      "category": "DevOps"
+    },
+    "REST API": {
+      "variations": ["rest api", "rest", "restful", "restful api"],
+      "category": "API"
+    },
+    "GraphQL": {
+      "variations": ["graphql", "graph ql"],
+      "category": "API"
+    },
+    "Microservices": {
+      "variations": ["microservices", "micro services", "microservice architecture"],
+      "category": "Architecture"
+    },
+    "SQL": {
+      "variations": ["sql", "structured query language"],
+      "category": "Database"
+    },
+    "HTML": {
+      "variations": ["html", "html5"],
+      "category": "Web Technology"
+    },
+    "CSS": {
+      "variations": ["css", "css3", "cascading style sheets"],
+      "category": "Web Technology"
+    },
+    "SASS": {
+      "variations": ["sass", "scss"],
+      "category": "Web Technology"
+    },
+    "Tailwind CSS": {
+      "variations": ["tailwind css", "tailwind", "tailwindcss"],
+      "category": "Web Technology"
+    }
+  }
+}
+
