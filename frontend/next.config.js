@@ -1,3 +1,5 @@
+const path = require('path')
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
@@ -14,6 +16,15 @@ const nextConfig = {
   
   // Output configuration
   output: 'standalone', // For Docker deployments
+  
+  // Webpack configuration for path aliases
+  webpack: (config) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      '@': path.resolve(__dirname),
+    }
+    return config
+  },
   
   // Environment variables
   env: {
